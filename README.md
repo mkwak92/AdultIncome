@@ -38,7 +38,7 @@ Make predictions about income based off the data that is provided based on featu
 - PCA
 
 ## Analysis/Trends
-- While reviewing the dataset, it was found that our of the total females, only around 11% made over 50k while around 30% of males made over 50k. This is a 1:3 difference of the amount of males making over 50k than females. We do have twice as many males than females which may contribute to the percentage disparity for income. 
+- While reviewing the dataset, it was found that out of the total females, only around 11% made over 50k while around 30% of males made over 50k. This is a 1:3 difference of the amount of males making over 50k than females. We do have twice as many males than females which may contribute to the percentage disparity for income. 
 
 ![AdultIncome(2)](https://user-images.githubusercontent.com/109184607/193273328-e431da9b-cae1-404f-b410-5465f24fcfa6.png)
 
