@@ -47,7 +47,8 @@ Make predictions about income based off the data that is provided based on featu
 
 - Another disparity that was found, was the Race and the percentage of over 50k. While the Asian-Pac-Islander and White races had around 25% of their population make over 50k, the Amer-Indian-Eskimo, Black, Other  races only had around 11% of their population make above 50k. The dataset is also very heavily White dominated. 
 
-![race_income](https://user-images.githubusercontent.com/109184607/193179817-6dd9e1a4-7eff-4cfe-92cd-3abe0c503516.png)
+![race_income](https://user-images.githubusercontent.com/109184607/193273504-d1b47e87-99c0-4bba-9367-0af294f3728a.png)
+
 
 ![race](https://user-images.githubusercontent.com/109184607/193181006-1a81d09b-2fc8-4948-b52e-a8371ae9493b.png)
 
