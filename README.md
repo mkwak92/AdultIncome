@@ -58,3 +58,4 @@ Make predictions about income based off the data that is provided based on featu
 ![AdultIncome(2)](https://user-images.githubusercontent.com/109184607/191960458-4a40ec92-b0bd-46d3-8d58-526a513df6cb.png)
 
 
+After review of 
