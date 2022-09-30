@@ -52,10 +52,9 @@ Make predictions about income based off the data that is provided based on featu
 
 ## Model - Logistic Regression
 # Recommendation:
-- My recommendation would be to use the Logistic Regression. The Logisitic Regression had an accuracy of 85.28% with a decision threshold of .45. Using .45 as the threshold, this model has a Type2 Error of .36. Currently, as the model is created, the Type2 error is too high and may not be able to predict if an adult made over 50k. If we were to use this model, it could help predict how much effect education and occupation leads to higher income. 
-
+- My recommendation would be to use the Logistic Regression. The Logisitic Regression had an accuracy of 85.28% with a decision threshold of .45. Using .45 as the threshold, this model has a Type2 Error of .36. Currently, as the model is created, the Type2 error is too high and may not be able to predict if an adult made over 50k. If we were to use this model, it could help predict how much effect education, occupation, and race lead to higher income. 
+- An accuracy of 85.28% is fairly strong especially with this training data having 36,592 rows data. This model was able to predict the make less than 50k income at 92%, so my recommendation would be to use this model to help predict this group. By researching this group more, we can figure out ways to create more equity in features such as education and occupation to the groups who need it most.
 #### 
 ![AdultIncome(2)](https://user-images.githubusercontent.com/109184607/191960458-4a40ec92-b0bd-46d3-8d58-526a513df6cb.png)
 
 
-After review of 
